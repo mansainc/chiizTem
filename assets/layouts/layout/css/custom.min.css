@@ -31,10 +31,18 @@
 }
 .thumb-img {
     float: left;
-    width: 300px;
+    width: 258px;
     margin-right: 10px;
+    margin-bottom: 10px;
 }
 .filterPos {
     float: right;
     margin: -50px 0 0 0;
+}
+.margin0 {
+    margin: 0;
+}
+.big-thum {
+    float: left;
+    width: 100%;
 }
