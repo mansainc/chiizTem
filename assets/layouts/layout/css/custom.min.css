@@ -46,3 +46,94 @@
     float: left;
     width: 100%;
 }
+.form_con {
+
+}
+.form-control {
+    padding: 6px 10px;
+}
+.portfolio-content {
+    position: relative;
+}
+#profile {
+     position: fixed;
+     right: 0;
+     top: 200;
+     z-index: 50;
+    cursor: pointer;
+ }
+#profile:hover, #close-profile:hover, #close-profile:focus {
+    text-decoration: none;
+}
+.pro-whole{
+    position: absolute;
+    right: -20px;
+    top: 0;
+    z-index: 100;
+    background: rgba(0, 0, 0, .4);
+    border: solid 1px #ccc;
+    padding: 0 10px 10px 10px;
+    -webkit-border-radius: 8px !important;
+    -moz-border-radius: 8px !important;;
+    border-radius: 8px !important;
+    width:180px;
+}
+#close-profile {
+    float: right;
+    cursor: pointer;
+}
+.profile-con {
+
+}
+.full-width {
+    width: 100% !important;
+}
+.inner-con {
+    float: left;
+    width: 100%;
+}
+.profile-port {
+    float: left;
+    width:100%;
+}
+.marginL0 {
+    margin-left: 0 !important;
+}
+.header-name {
+    float: left;
+    font-size: 17px;
+    color: #0c59d2;
+    margin: 10px 0;
+}
+.header-name:hover {
+    text-decoration: none;
+}
+.profile-flag {
+    float: left;
+    width: 60px;
+    margin: 0 10px 10px 0;
+}
+.photo-title {
+    font-size: 17px;
+}
+.about-text {
+    color: #ccc;
+}
+.w33 {
+    float: left;
+    width: 33.3%;
+    text-align: center;
+    padding-top: 10px;
+    padding: 0 2%;
+}
+.w33 p {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
+.summary-icon {
+    float: left;
+    width: 100%;
+}
+
