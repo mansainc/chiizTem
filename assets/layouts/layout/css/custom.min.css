@@ -193,4 +193,9 @@
     padding-top: 12px;
     float: left;
 }
+.single-thum {
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
+}
 
