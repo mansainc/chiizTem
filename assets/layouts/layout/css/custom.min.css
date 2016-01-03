@@ -67,16 +67,18 @@
 }
 .pro-whole{
     position: absolute;
-    right: -20px;
-    top: 0;
+    right: 0px;
+    top: 10px;
     z-index: 100;
-    background: rgba(0, 0, 0, .4);
+    background: rgba(255, 255, 255, .8);
     border: solid 1px #ccc;
     padding: 0 10px 10px 10px;
     -webkit-border-radius: 8px !important;
     -moz-border-radius: 8px !important;;
     border-radius: 8px !important;
-    width:180px;
+    width:260px;
+    display: none;
+
 }
 #close-profile {
     float: right;
@@ -101,8 +103,8 @@
 }
 .header-name {
     float: left;
-    font-size: 17px;
-    color: #0c59d2;
+    font-size: 18px;
+    color: #36c6d3;
     margin: 10px 0;
 }
 .header-name:hover {
@@ -115,9 +117,16 @@
 }
 .photo-title {
     font-size: 17px;
+    color: #666;
+    margin-top: 5px;
+    text-align: left;
+    float: left;
+    width: 100%;
 }
 .about-text {
-    color: #ccc;
+    float: left;
+    color: #666;
+    margin-bottom: 12px;
 }
 .w33 {
     float: left;
@@ -131,9 +140,57 @@
     width: 100%;
     text-align: center;
     margin: 0;
+    color: #666;
 }
 .summary-icon {
     float: left;
     width: 100%;
+}
+.width100p {
+    width: 100% !important;
+}
+.new-line {
+    float: left;
+    width: 100%;
+    margin: 0;
+}
+.photo-info {
+    float: left;
+    width: 100%;
+    margin: 0;
+    font-size: 14px;
+    color: #666;
+}
+.address {
+    color: #666;
+}
+.top-nav {
+    float: left;
+    margin: 10px 0 0px 0;
+}
+.top-nav ul {
+    float: left;
+    list-style: none;
+    padding-left: 0;
+}
+.top-nav ul li {
+    float: left;
+    list-style: none;
+    padding: 0 10px;
+    font-size: 15px;
+}
+.logo-custom {
+    margin: 2px  !important;
+    width: 80px;
+}
+.page-logo-custom {
+    width: 100px !important;
+}
+.padding0 {
+    padding: 0 !important;
+}
+.title-con {
+    padding-top: 12px;
+    float: left;
 }
 
