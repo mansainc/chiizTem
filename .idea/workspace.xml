@@ -32,8 +32,8 @@
       <file leaf-file-name="single_pix_view.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin_1/single_pix_view.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39492753" vertical-offset="10764" max-vertical-offset="24650">
-              <caret line="629" column="37" selection-start-line="629" selection-start-column="37" selection-end-line="629" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.6413044" vertical-offset="10917" max-vertical-offset="23579">
+              <caret line="646" column="84" selection-start-line="646" selection-start-column="84" selection-end-line="646" selection-end-column="84" />
               <folding>
                 <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -42,11 +42,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="page_general_contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_1/page_general_contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="6.5454545" vertical-offset="39426" max-vertical-offset="39984">
+              <caret line="2298" column="8" selection-start-line="2298" selection-start-column="8" selection-end-line="2298" selection-end-column="102" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="custom.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/layouts/layout/css/custom.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.586206" vertical-offset="2856" max-vertical-offset="3519">
-              <caret line="198" column="18" selection-start-line="198" selection-start-column="18" selection-end-line="198" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="3184" max-vertical-offset="3910">
+              <caret line="218" column="1" selection-start-line="218" selection-start-column="1" selection-end-line="218" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -82,6 +92,7 @@
         <option value="$PROJECT_DIR$/admin_1/add_new_contest.html" />
         <option value="$PROJECT_DIR$/assets/layouts/layout/scripts/layout.js" />
         <option value="$PROJECT_DIR$/assets/layouts/layout/scripts/layout.min.js" />
+        <option value="$PROJECT_DIR$/admin_1/page_general_portfolio_1.html" />
         <option value="$PROJECT_DIR$/assets/layouts/layout/css/custom.min.css" />
         <option value="$PROJECT_DIR$/admin_1/single_pix_view.html" />
       </list>
@@ -350,7 +361,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -397,6 +408,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/layouts/layout/scripts/layout.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/admin_1/single_pix_view.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="23987">
@@ -625,13 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin_1/page_general_contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6437177" vertical-offset="26061" max-vertical-offset="40069">
-          <caret line="1533" column="0" selection-start-line="1533" selection-start-column="0" selection-end-line="1533" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin_1/ui_tabs_accordions_navs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="6.5454545" vertical-offset="29685" max-vertical-offset="66198">
@@ -752,18 +764,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/admin_1/page_general_portfolio_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="14.301587" vertical-offset="43112" max-vertical-offset="43656">
+          <caret line="2483" column="97" selection-start-line="2483" selection-start-column="8" selection-end-line="2483" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/layouts/layout/css/custom.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.586206" vertical-offset="2856" max-vertical-offset="3519">
-          <caret line="198" column="18" selection-start-line="198" selection-start-column="18" selection-end-line="198" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="3184" max-vertical-offset="3910">
+          <caret line="218" column="1" selection-start-line="218" selection-start-column="1" selection-end-line="218" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_1/page_general_contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.5454545" vertical-offset="39426" max-vertical-offset="39984">
+          <caret line="2298" column="8" selection-start-line="2298" selection-start-column="8" selection-end-line="2298" selection-end-column="102" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin_1/single_pix_view.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39492753" vertical-offset="10764" max-vertical-offset="24650">
-          <caret line="629" column="37" selection-start-line="629" selection-start-column="37" selection-end-line="629" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.6413044" vertical-offset="10917" max-vertical-offset="23579">
+          <caret line="646" column="84" selection-start-line="646" selection-start-column="84" selection-end-line="646" selection-end-column="84" />
           <folding>
             <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />

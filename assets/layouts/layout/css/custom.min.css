@@ -198,4 +198,27 @@
     width: auto;
     margin: 0 auto;
 }
+.efix {
+    float: left;
+    width: 100%;
+    background:#c9f1fd;
+    line-height:195px;
+    text-align: center;
+}
+.paddingLR0 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.exfix-right {
+    float: left;
+    padding: 5px 10px ;
+}
+.exfix-right img {
+    float: left;
+}
+.page-content-wrapper {
+    background: #fff;
+}
+
+
 
