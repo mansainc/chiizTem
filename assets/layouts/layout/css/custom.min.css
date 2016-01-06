@@ -235,8 +235,11 @@
     height: 20px;
    }
 .scroll-right {
-   height: 200px;
-   overflow: scroll;
+    width: auto !important;
+    height:210px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
 }
 .follow-me {
     float: right;
@@ -255,4 +258,21 @@
     border: solid 1px #ccc;
     margin-bottom: 10px;
     height: 40px;
+}
+
+#popup {
+    padding: 5px;
+    border: 1px solid grey;
+    display: none;
+}
+#popup.opened {
+    display: block;
+}
+.w33 a {
+    float: left;
+    margin:1px;
+}
+.w33 a:hover {
+    border: solid 1px #999;
+    margin:0px;
 }
